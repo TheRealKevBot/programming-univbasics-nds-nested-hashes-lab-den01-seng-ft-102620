@@ -13,7 +13,7 @@ def assembled_aoh
     { name:  "Don Gately", occupation: "Live-in Staff" },
     { name:  "Joelle van Dyne", occupation: "Radio Personality" },
     { name:  "Kate Gompert", occupation: "None" },
-    
+    { name:  "Bruce Green", occupation: "Fan of Mildred" }
     ]
 end
 
