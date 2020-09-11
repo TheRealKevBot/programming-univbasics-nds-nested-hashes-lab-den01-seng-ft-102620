@@ -11,7 +11,9 @@ def assembled_aoh
   # Array. Ruby constants are denoted by ALL_CAPS
   list = [
     { name:  "Don Gately", occupation: "Live-in Staff" },
-    { name:  "Joelle van Dyne", occupation: "Radio Personality" }
+    { name:  "Joelle van Dyne", occupation: "Radio Personality" },
+    { name:  "Kate Gompert", occupation: "None" },
+    
     ]
 end
 
